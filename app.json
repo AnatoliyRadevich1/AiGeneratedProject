@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "drawer-navigation-|-react-navigation",
+    "slug": "snack-3e47ef89-4e56-4498-9601-660737525848",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.cyberivan1.snack3e47ef894e5644989601660737525848"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/back1.jpg",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.cyberivan1.snack3e47ef894e5644989601660737525848"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c411fe5b-c985-4cbe-a487-c2867a78f673"
+      }
+    },
+    "owner": "cyberivan1"
+  }
+}
